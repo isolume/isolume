@@ -1,7 +1,6 @@
 ## find/contact me:
-[[website]] [[email]]
+[[email]]
 
-[website]: https://isolu.me
 [email]: mailto:nerd@isolu.me
 
 <!-- shhhh -->
